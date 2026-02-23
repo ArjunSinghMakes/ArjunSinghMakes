@@ -1,133 +1,107 @@
-<!-- Animated Typing Header -->
+<!-- Animated Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00C2FF&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Arjun+Singh;Computer+Science+Student;Aspiring+Software+Developer;DSA+%7C+Web+Dev+%7C+Backend+Enthusiast;Learning+by+Building+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=1500&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Arjun+Singh;Computer+Science+Student;Aspiring+Software+Developer;DSA+%7C+Backend+%7C+Web+Development;Consistency+Builds+Mastery+%F0%9F%9A%80" />
 </div>
 
 <!-- Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:0077FF&height=200&section=header&text=Welcome%20to%20ArjunSinghMakes&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:0052D4&height=200&section=header&text=ArjunSinghMakes&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
 </div>
 
 ---
 
 ## 🚀 About Me
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Degree-B.E%2FB.Tech%20CSE-blue?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
-<img src="https://img.shields.io/badge/Focus-DSA%20%7C%20Web%20%7C%20Backend-green?style=for-the-badge&logo=code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Learning-Never%20Stops-orange?style=for-the-badge&logo=book&logoColor=white"/>
-
-</div>
-
 Hi, I’m **Arjun Singh 👋**  
 A passionate **Computer Science student** and aspiring **Software Developer** who loves solving problems, building projects, and exploring new technologies.
 
 - 🎓 Pursuing **B.E/B.Tech in Computer Science**
 - 💻 Strong interest in **Data Structures & Algorithms (DSA)**
-- 🌐 Exploring **Web Development & Backend Development**
+- 🌐 Exploring **Web & Backend Development**
 - 🛠️ Focused on building real-world projects
 - ⚡ Love learning by coding and solving challenges
 
 ---
 
-## 💻 What Drives Me
+## 🧠 What I’m Currently Doing
 
-```java
-class ArjunSingh {
-    String role = "Computer Science Student";
-    String goal = "Become a Skilled Software Developer";
-    String mindset = "Consistency > Motivation";
-    
-    String[] interests = {
-        "Data Structures & Algorithms",
-        "Backend Development",
-        "Problem Solving",
-        "System Design (Learning Phase)"
-    };
-    
-    String dailyRoutine() {
-        return "Code → Learn → Improve → Repeat 🚀";
-    }
-}
-```
+- 📚 Preparing for Technical Interviews & Coding Rounds  
+- 🧠 Practicing DSA regularly  
+- 🗄️ Strengthening DBMS & SQL  
+- 🛠️ Working on academic & personal projects  
 
-🚀 What I’m Currently Doing
+---
 
-📚 Preparing for Technical Interviews & Coding Rounds
+## 🧑‍💻 Tech Stack
 
-🧠 Practicing DSA problems regularly (LeetCode style)
+### ☕ Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-🗄️ Strengthening DBMS & SQL concepts
+### 🧠 Core Concepts
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-00599C?style=for-the-badge)
+![OOP](https://img.shields.io/badge/Object%20Oriented%20Programming-6DB33F?style=for-the-badge)
+![DBMS](https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge)
 
-🛠️ Working on academic & personal development projects
+### 🌐 Web & Tools
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-🧑‍💻 Tech Stack
+---
+
+## 📌 Projects
+
+- 📊 DBMS Academic Projects  
+- 🌐 Web Development Mini Projects  
+- 🧠 Algorithm Implementations  
+- 📂 More projects coming soon…  
+
+---
+
+## 🎯 Goals
+
+- 🚀 Crack top product-based company interviews  
+- 💼 Become a skilled Software Developer  
+- 🧠 Master DSA & System Design  
+- 🌍 Contribute to Open Source  
+
+---
+
+## 📊 GitHub Analytics
+
 <div align="center">
-☕ Languages
-
-
-
-
-
-
-🧠 Core Concepts
-
-
-
-
-
-
-🌐 Web & Tools
-
-
-
-
-
-
-
-
-
-
-
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ArjunSinghMakes&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunSinghMakes&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
-📌 Projects
 
-📊 DBMS Academic Projects
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArjunSinghMakes&theme=tokyonight&hide_border=true"/>
+</div>
 
-🌐 Web Development Mini Projects
+---
 
-🧠 Problem Solving & Algorithm Implementations
+## 📫 Connect With Me
 
-📂 More projects coming soon…
-
-📊 GitHub Analytics
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArjunSinghMakes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunSinghMakes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArjunSinghMakes&theme=tokyonight&hide_border=true&background=0D1117" /> </div>
-🎯 Goals
-
-🚀 Crack top product-based company interviews
-
-💼 Become a skilled Software Developer
-
-🧠 Master DSA & System Design
-
-🌍 Contribute to Open Source
-
-📫 Connect With Me
 <div align="center">
 
-
-[
-](Add your LinkedIn link here)
+[![GitHub](https://img.shields.io/badge/GitHub-ArjunSinghMakes-181717?style=for-the-badge&logo=github)](https://github.com/ArjunSinghMakes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arjun%20Singh-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arjun-singh-cse-data-science)
 
 </div>
-💡 Personal Motto
 
-"Consistency builds mastery. Small improvements daily lead to big success."
+---
 
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:0077FF&height=120&section=footer"/>
+## 💡 Personal Motto
 
-⭐ If you like my work, consider giving a star to my repositories!
+> **"Consistency builds mastery. Small improvements daily lead to big success."**
 
-</div> ```
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:0052D4&height=120&section=footer"/>
+</div>
