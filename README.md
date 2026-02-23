@@ -1,81 +1,51 @@
-Arjun Singh
-
-🎓 Computer Science Engineering Student
-💻 DSA Enthusiast | Problem Solver | Cybersecurity Explorer
-🚀 Passionate about Building Real-World Projects
-
+<h1 align="center">Hi 👋, I'm Arjun Singh</h1>
+<h3 align="center">🚀 CSE Student | DSA Enthusiast | Cybersecurity Explorer</h3>
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 🧠 About Me
 
-🔍 Currently mastering Data Structures & Algorithms
+🎓 Computer Science Engineering Student
 
-🎯 Preparing for technical interviews (FAANG style mindset)
+🔥 Preparing for Technical Interviews (Product-Based Companies)
 
-🛡 Built a Ransomware Simulation Project using Kali Linux
+💻 Strong focus on Data Structures & Algorithms
 
-🤖 Worked on Web Page Phishing Detection (Machine Learning)
+☁️ Exploring Cloud Computing & Edge AI
 
-🗄 Strong understanding of DBMS & SQL
+📚 Consistently solving LeetCode problems
 
-☁️ Exploring Cloud Computing & Virtualization
+🛠️ Languages and Tools:
+<p align="left"> <img src="https://skillicons.dev/icons?i=java,python,c,git,github,vscode,linux,mysql" /> </p>
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ArjunSinghMakes&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunSinghMakes&layout=compact&theme=tokyonight" /> </p>
+🔥 Current Focus
 
-📈 Love solving logic & aptitude problems
+🚀 Mastering Advanced DSA Patterns
 
-💻 Tech Stack
+📈 300+ LeetCode Problems Goal
 
-Languages:
-Java | Python | C
+🧠 Strengthening DBMS & OS Concepts
 
-Core Subjects:
-Data Structures | Algorithms | DBMS | Operating Systems
+☁️ Learning Cloud & Virtualization
 
-Tools & Platforms:
-Git | GitHub | Kali Linux | VS Code
-
-Concepts I Practice:
-
-Sliding Window
-
-Prefix Sum
-
-HashMap Optimization
-
-Two Pointers
-
-Binary Search
-
-🚀 Projects
-🛡 Ransomware Simulation using Kali Linux
-
-Demonstrated how ransomware encrypts files
-
-Explained prevention and mitigation techniques
-
-Presented with PPT and live demo
+🛡 Featured Projects
 
 🔐 Web Page Phishing Detection
 
-Machine Learning based phishing website detector
+Machine Learning based phishing website detection
 
-Used feature extraction & classification models
+Feature extraction & classification models
 
-Improved awareness of cybersecurity threats
-
-📊 Current Focus
-
-🔥 Solving LeetCode daily
-
-📚 Deep diving into Advanced DSA
-
-🧠 Strengthening System Design basics
-
-☁️ Learning Cloud & Edge AI concepts
 
 🎯 2026 Goals
 
-Crack top product-based company
+💼 Crack a Top Product-Based Company
 
-300+ LeetCode problems solved
+🧠 Become DSA Expert
 
-Build 3 industry-level projects
+🚀 Build 3 Industry-Level Projects
 
-Master core CS fundamentals
+🏆 Strong GitHub Contribution Streak
+
+⚡ Fun Fact
+
+I don't just write code. I optimize it.
