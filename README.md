@@ -49,7 +49,7 @@ class ArjunSingh {
     String dailyRoutine() {
         return "Code → Learn → Improve → Repeat 🚀";
     }
-}
+}```
 
 🚀 What I’m Currently Doing
 
