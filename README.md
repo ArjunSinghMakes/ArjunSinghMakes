@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=1500&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Arjun+Singh;Computer+Science+Student;Aspiring+Software+Developer;DSA+%7C+Backend+%7C+Web+Development;Consistency+Builds+Mastery+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=1500&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Arjun+Singh;Computer+Science+Student;Aspiring+Data+Scientist;Machine+Learning+Enthusiast;DSA+%7C+Data+Science+%7C+ML+%F0%9F%9A%80" />
 </div>
 
 <!-- Banner -->
@@ -13,22 +13,23 @@
 ## 🚀 About Me
 
 Hi, I’m **Arjun Singh 👋**  
-A passionate **Computer Science student** and aspiring **Software Developer** who loves solving problems, building projects, and exploring new technologies.
+A passionate **Computer Science student** and aspiring **Data Scientist** who loves analyzing data, solving problems, and building intelligent systems.
 
 - 🎓 Pursuing **B.E/B.Tech in Computer Science**
-- 💻 Strong interest in **Data Structures & Algorithms (DSA)**
-- 🌐 Exploring **Web & Backend Development**
-- 🛠️ Focused on building real-world projects
-- ⚡ Love learning by coding and solving challenges
+- 📊 Strong interest in **Data Science & Machine Learning**
+- 💻 Solid foundation in **Data Structures & Algorithms**
+- 🗄️ Learning **DBMS & SQL**
+- ⚡ Believe in learning by building & experimenting
 
 ---
 
 ## 🧠 What I’m Currently Doing
 
-- 📚 Preparing for Technical Interviews & Coding Rounds  
+- 📚 Preparing for technical interviews  
 - 🧠 Practicing DSA regularly  
-- 🗄️ Strengthening DBMS & SQL  
-- 🛠️ Working on academic & personal projects  
+- 📊 Learning Machine Learning algorithms  
+- 🗄️ Strengthening SQL & Database concepts  
+- 🛠️ Building academic & personal data projects  
 
 ---
 
@@ -38,11 +39,24 @@ A passionate **Computer Science student** and aspiring **Software Developer** wh
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+### 📊 Data Science & ML
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-4CAF50?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+---
 
 ### 🧠 Core Concepts
 ![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-00599C?style=for-the-badge)
 ![OOP](https://img.shields.io/badge/Object%20Oriented%20Programming-6DB33F?style=for-the-badge)
-![DBMS](https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge)
+![DBMS](https://img.shields.io/badge/Database%20Management%20Systems-4479A1?style=for-the-badge)
+
+---
 
 ### 🌐 Web & Tools
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -50,24 +64,24 @@ A passionate **Computer Science student** and aspiring **Software Developer** wh
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ---
 
 ## 📌 Projects
 
-- 📊 DBMS Academic Projects  
-- 🌐 Web Development Mini Projects  
-- 🧠 Algorithm Implementations  
+- 📊 Data Analysis Projects  
+- 🤖 Machine Learning Mini Projects  
+- 🧠 DSA Implementations  
+- 🗄️ DBMS Academic Projects  
 - 📂 More projects coming soon…  
 
 ---
 
 ## 🎯 Goals
 
+- 📊 Become a skilled Data Scientist  
+- 🧠 Master Machine Learning & System Design  
 - 🚀 Crack top product-based company interviews  
-- 💼 Become a skilled Software Developer  
-- 🧠 Master DSA & System Design  
 - 🌍 Contribute to Open Source  
 
 ---
